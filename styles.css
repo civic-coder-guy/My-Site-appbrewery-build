@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1 {
+  width: 50%;
+  margin: 50px auto 0 auto;
+  font-family: 'Redressed', cursive;
+  font-size: 90px;
+  position: relative;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  text-align: center;
+  text-decoration: underline;
+  margin: 10px auto 10px auto;
+}
+
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;;
+  text-align: center;
+  margin: auto;
+  text-decoration: underline;
+}
+
+p {
+  margin: 10px 50px 10px 50px;
+}
+.top-container {
+  background-color: #111D5E;
+  position: relative;
+  padding-top: 100px;
+  color: #C0E212;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  background-color: #C0E218;
+  padding-bottom: 100px;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left: 450px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position:absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.skills-row {
+  height: 50%;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+}
+
+.web-design {
+  width: 10%;
+  text-align: center;
+}
+
+.blog {
+  width: 20%;
+  text-align: center;
+}
+
+.stream {
+  width: 25%;
+  text-align: center;
+}
+
+.me {
+  width: 15%;
+}
+
+.family {
+  width: 25%;
+}
